@@ -1,3 +1,2 @@
 ﻿Rate limit: 2 reques/s, wait 500ms before throw error
-<img width="1914" height="630" alt="ratelimit" src="https://github.com/user-attachments/assets/6264b566-f237-4e45-97f7-4a9ca99bf5bd.gif" />
-
+<img width="1914" height="630" alt="Image" src="https://github.com/user-attachments/assets/974eb564-f3fd-415d-92c1-ba88a36e5047.gif" />
